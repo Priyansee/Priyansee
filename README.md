@@ -27,7 +27,8 @@
 
 ## ⚙️ Development Skills  
 
-- Backend & Frontend Development  
+- FullStack Development
+- Database Management  
 - API Integration & Automation  
 - Debugging & Testing  
 - Version Control (Git)  
