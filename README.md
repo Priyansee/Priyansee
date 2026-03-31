@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyansee Soni</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Scalable+Systems;Building+Real-World+Applications+with+Impact;Code.+Create.+Solve.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Code.+Create.+Solve.+Repeat." />
 </p>
 
 ---
