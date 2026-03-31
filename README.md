@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyansee Soni</h1>
 
-<h3 align="center">
-  Software Developer | Problem Solver | M.Tech @ DAU
-</h3>
 
 
 
