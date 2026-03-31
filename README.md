@@ -4,19 +4,7 @@
   Software Developer | Problem Solver | M.Tech @ DAU
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Priyansee">
-    <img src="https://komarev.com/ghpvc/?username=Priyansee&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
-  </a>
-</p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Software+Developer;Building+Scalable+Applications;Strong+in+Problem+Solving;Exploring+AI+and+Systems" />
-</p>
-
----
 
 ## 🧠 About Me  
 
