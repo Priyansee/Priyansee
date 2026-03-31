@@ -5,8 +5,15 @@
 </p>
 
 ---
+## 🧠 About Me  
 
+I am a curious and driven individual who enjoys learning by building.  
+I like exploring new technologies, understanding how systems work, and applying that knowledge to create practical solutions.  
 
+I value collaboration, continuous learning, and improving through real-world experiences.  
+Whether working on my own or with a team, I aim to approach problems thoughtfully, write clear and maintainable code, and contribute in a meaningful way.  
+
+---
 ## ⚡ Tech Stack  
 
 ### 💻 Languages  
