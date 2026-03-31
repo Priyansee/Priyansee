@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Priyansee Soni</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Scalable+Systems;Building+Real-World+Applications+with+Impact;Code.+Create.+Solve.+Repeat." />
+</p>
 
-
+---
 
 ## 🧠 About Me  
 
 - 🎓 M.Tech in ICT (Software Systems) @ Dhirubhai Ambani University  
 - 💻 Software Developer with experience in **full stack and AI-integrated systems**  
-- 🚀 Interested in **scalable systems, backend engineering, and real-world applications**  
+- 🚀 Interested in **scalable systems, AI, and real-world applications**  
 - 📈 Strong foundation in **DSA, DBMS, OS, and system design basics**  
 
 ---
@@ -63,6 +66,7 @@
 ## 🚀 Featured Projects  
 
 ### 🔹 Srivix – AI Mock Interview Platform  
+🌐 Live: https://srivix-ai-interview-mocker.vercel.app/  
 - Built a GenAI-powered system delivering **real-time interview feedback and performance insights**  
 - Implemented secure authentication and scalable database design  
 - ⚡ Improved feedback efficiency by **60%** compared to manual evaluation  
@@ -87,6 +91,7 @@
 ---
 
 ### 🔹 Room Rooster – Rental Property Platform  
+🌐 Live: https://room-rooster-kappa.vercel.app/  
 - Built MERN-based system managing **multiple property listings and user interactions**  
 - Designed modules for owners and tenants with structured workflows  
 - ⚡ Streamlined listing and search operations improving usability by **35%**  
@@ -127,4 +132,4 @@
 
 ## ⚡ Fun Fact  
 
-✨ I enjoy building scalable systems and solving real-world problems through code  
+✨ I enjoy building scalable systems and solving real-world problems through code and AI
