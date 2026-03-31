@@ -67,4 +67,4 @@ Whether working on my own or with a team, I aim to approach problems thoughtfull
 
 ## ⚡ Fun Fact  
 
-✨ I enjoy building scalable systems and solving real-world problems through code and AI
+✨ The first computer bug was an actual moth found inside a computer  
