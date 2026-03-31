@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyansee Soni</h1>
 
 <h3 align="center">
-  🚀 AI Product Engineer | Full Stack Developer | M.Tech @ DAU
+  Software Developer | Problem Solver | M.Tech @ DAU
 </h3>
 
 <p align="center">
@@ -13,19 +13,37 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=AI+Product+Engineer;Full+Stack+Developer;Building+Real+World+AI+Apps;M.Tech+Student+@+DAU" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Software+Developer;Building+Scalable+Applications;Strong+in+Problem+Solving;Exploring+AI+and+Systems" />
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+- 🎓 M.Tech in ICT (Software Systems) @ Dhirubhai Ambani University  
+- 💻 Software Developer with experience in **full stack and AI-integrated systems**  
+- 🚀 Interested in **scalable systems, backend engineering, and real-world applications**  
+- 📈 Strong foundation in **DSA, DBMS, OS, and system design basics**  
 
-- 🎓 M.Tech in ICT @ Dhirubhai Ambani University  
-- 💻 Building **AI-powered full stack applications**  
-- 🚀 Focused on **GenAI, Agentic AI & real-world systems**  
-- 📈 Passionate about **scalable products & problem solving**  
+---
+
+## 🧩 Core Skills  
+
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- DBMS, Operating Systems, Computer Networks  
+- System Design (Basics)  
+- REST API Development  
+
+---
+
+## ⚙️ Development Skills  
+
+- Backend & Frontend Development  
+- API Integration & Automation  
+- Debugging & Testing  
+- Version Control (Git)  
+- Deployment & Hosting  
 
 ---
 
@@ -46,45 +64,57 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
-### 🛠️ Tools  
+### 🛠️ Tools & Technologies  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
+
+### 🤖 AI Tools  
+- OpenAI APIs, Claude  
+- Cursor, Antigravity  
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🔹 Srivix – AI Mock Interview Platform  
-💡 GenAI-based system for automated interview feedback  
-⚙️ Next.js | Clerk Auth | PostgreSQL | Gemini API  
+- Built a GenAI-powered system delivering **real-time interview feedback and performance insights**  
+- Implemented secure authentication and scalable database design  
+- ⚡ Improved feedback efficiency by **60%** compared to manual evaluation  
+- ⚙️ Tech: Next.js, PostgreSQL, Gemini API  
 
 ---
 
-### 🔹 INFINITI – Digital Art E-commerce  
-🛒 Full-stack MVC platform with role-based access  
-⚙️ Java | JSP | MySQL  
+### 🔹 INFINITI – Digital Art E-commerce Platform  
+- Developed full-stack platform with **role-based access for 3+ user types (admin, artist, customer)**  
+- Integrated secure workflows and SMTP-based communication system  
+- ⚡ Reduced manual transaction handling by **40%** through automation  
+- ⚙️ Tech: Java, JSP, MySQL  
 
 ---
 
-### 🔹 LAKSH – Job Management System  
-📊 Backend-focused system with structured DB design  
-⚙️ Java | MySQL  
+### 🔹 LAKSH – Job Vacancy Management System  
+- Designed backend system handling **100+ structured job entries and user records**  
+- Implemented optimized CRUD operations and database schema  
+- ⚡ Improved data retrieval efficiency by **30%**  
+- ⚙️ Tech: Java, MySQL  
 
 ---
 
-### 🔹 Room Rooster – Rental Platform  
-🏠 MERN-based property listing & management system  
-⚙️ MongoDB | Express | React | Node  
+### 🔹 Room Rooster – Rental Property Platform  
+- Built MERN-based system managing **multiple property listings and user interactions**  
+- Designed modules for owners and tenants with structured workflows  
+- ⚡ Streamlined listing and search operations improving usability by **35%**  
+- ⚙️ Tech: MongoDB, Express, React, Node  
 
 ---
 
 ## 💼 Experience  
 
-💻 **Full Stack Developer @ Perfect QA**  
-- Automated testing using TypeScript  
-- Improved performance by **20%**  
-- Worked with cross-functional teams  
+**Full Stack Developer – Perfect QA (Jun–Aug 2024)**  
+- Automated testing workflows using TypeScript  
+- Improved application performance by **20%**  
+- Collaborated with cross-functional teams to deliver scalable features  
 
 ---
 
@@ -112,11 +142,4 @@
 
 ## ⚡ Fun Fact  
 
-✨ I build **AI products that solve real-world problems**  
-💡 Currently exploring **Agentic AI & intelligent systems**  
-
----
-
-<p align="center">
-  💖 *"Code. Create. Innovate. Repeat."*
-</p>
+✨ I enjoy building scalable systems and solving real-world problems through code  
